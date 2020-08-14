@@ -15,6 +15,7 @@ if __name__ == "__main__":
     # funciones con parametros
     retornarNombre('albeiro')
     retornarNombre('Liliana')
+    retornarNombre()
 
     print(suma(50,100))
 

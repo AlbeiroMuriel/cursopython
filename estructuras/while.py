@@ -1,3 +1,7 @@
+from os import system
+system("cls")
+
+
 # Aceptar solo cadenas de texto
 i=1
 while i <= 10 :
@@ -22,4 +26,5 @@ else:
 r = input('Desea continuar S/N ')
 while r.lower() == 's':
     r = input('Desea continuar S/N ')
+
 
